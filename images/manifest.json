@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2500,
+    "id" : "https://AudeEych.github.io/IIIFIvryVersion2/images/CDNmanufacture-des-oeillets-ivry-sur-seine/canvas/",
+    "label" : {
+      "none" : [ "CDNmanufacture-des-oeillets-ivry-sur-seine" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://AudeEych.github.io/IIIFIvryVersion2/images/CDNmanufacture-des-oeillets-ivry-sur-seine/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://AudeEych.github.io/IIIFIvryVersion2/images/CDNmanufacture-des-oeillets-ivry-sur-seine/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 79,
+              "height" : 53
+            }, {
+              "width" : 157,
+              "height" : 105
+            }, {
+              "width" : 313,
+              "height" : 209
+            }, {
+              "width" : 625,
+              "height" : 418
+            }, {
+              "width" : 1250,
+              "height" : 835
+            }, {
+              "width" : 2500,
+              "height" : 1669
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2500,
+            "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/images/CDNmanufacture-des-oeillets-ivry-sur-seine",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1669
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2500,
+          "id" : "https://AudeEych.github.io/IIIFIvryVersion2/images/CDNmanufacture-des-oeillets-ivry-sur-seine/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1669
+        },
+        "target" : "https://AudeEych.github.io/IIIFIvryVersion2/images/CDNmanufacture-des-oeillets-ivry-sur-seine/canvas/"
+      } ]
+    } ],
+    "height" : 1669
+  }, {
     "width" : 1535,
     "id" : "https://AudeEych.github.io/IIIFIvryVersion2/images/ManufactureBac1906/canvas/",
     "label" : {
