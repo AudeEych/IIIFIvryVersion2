@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 48,
+    "height" : 30
+  }, {
+    "width" : 96,
+    "height" : 59
+  }, {
+    "width" : 192,
+    "height" : 118
+  }, {
+    "width" : 384,
+    "height" : 236
+  }, {
+    "width" : 768,
+    "height" : 472
+  }, {
+    "width" : 1535,
+    "height" : 943
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1535,
+  "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/images/ManufactureBac1906",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 943
+}
