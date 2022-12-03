@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1535,
+    "id" : "https://AudeEych.github.io/IIIFIvryVersion2/images/ManufactureBac1906/canvas/",
+    "label" : {
+      "none" : [ "ManufactureBac1906" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://AudeEych.github.io/IIIFIvryVersion2/images/ManufactureBac1906/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://AudeEych.github.io/IIIFIvryVersion2/images/ManufactureBac1906/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 48,
+              "height" : 30
+            }, {
+              "width" : 96,
+              "height" : 59
+            }, {
+              "width" : 192,
+              "height" : 118
+            }, {
+              "width" : 384,
+              "height" : 236
+            }, {
+              "width" : 768,
+              "height" : 472
+            }, {
+              "width" : 1535,
+              "height" : 943
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1535,
+            "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/images/ManufactureBac1906",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 943
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1535,
+          "id" : "https://AudeEych.github.io/IIIFIvryVersion2/images/ManufactureBac1906/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 943
+        },
+        "target" : "https://AudeEych.github.io/IIIFIvryVersion2/images/ManufactureBac1906/canvas/"
+      } ]
+    } ],
+    "height" : 943
+  }, {
     "width" : 796,
     "id" : "https://AudeEych.github.io/IIIFIvryVersion2/images/LesEtoiles1970/canvas/",
     "label" : {
