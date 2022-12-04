@@ -70,12 +70,7 @@
         },
         "on" : "http://fd42bec2-88bb-44a8-99a2-8d21cbbe2a6d"
       } ],
-      "related" : ""
-      "otherContent" : [ {
-        "@type" : "sc:AnnotationList",
-        "@id" : "",
-        "label" : "Annotations for canvas Overview 1917"
-      } ]
+      "related" : "",
     }, {
       "@id" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b",
       "@type" : "sc:Canvas",
@@ -153,7 +148,7 @@
         },
         "on" : "http://caf867cf-8ebd-4017-a15e-6f82d1df99c6"
       } ],
-      "related" : ""
+      "related" : "",
     } ]
   } ],
   "structures" : [ ]
