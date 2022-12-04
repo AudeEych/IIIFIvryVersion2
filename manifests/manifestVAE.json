@@ -27,8 +27,8 @@
       "@id" : "http://fd42bec2-88bb-44a8-99a2-8d21cbbe2a6d",
       "@type" : "sc:Canvas",
       "label" : "Ivry-sur-Seine, overview of the city.",
-      "height" : "1286",
-      "width" : "2000",
+      "height" : 1286,
+      "width" : 2000,
       "metadata" : [ {
         "label" : "Repository",
         "value" : "Archives municipales d'Ivry-sur-Seine."
@@ -75,8 +75,8 @@
       "@id" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b",
       "@type" : "sc:Canvas",
       "label" : "Les Etoiles de Renaudie",
-      "height" : "1062",
-      "width" : "796",
+      "height" : 1062,
+      "width" : 796,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://69f79e82-4273-4f2d-bb93-b54d65085864",
@@ -101,8 +101,8 @@
       "@id" : "http://900c1c21-0968-48ee-a9f6-8f88cf964c72",
       "@type" : "sc:Canvas",
       "label" : "Ivry - Manufacture Bac",
-      "height" : "943",
-      "width" : "1535",
+      "height" : 943,
+      "width" : 1535,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://672b8f01-79fb-443f-8ab6-9fb7039a9bd5",
@@ -127,8 +127,8 @@
       "@id" : "http://caf867cf-8ebd-4017-a15e-6f82d1df99c6",
       "@type" : "sc:Canvas",
       "label" : "Théâtre des quartiers d'Ivry, centre dramatique national",
-      "height" : "1669",
-      "width" : "2500",
+      "height" : 1669,
+      "width" : 2500,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://cb49b812-67df-4bcf-93d9-c4a9a6ba1491",
