@@ -1,15 +1,21 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE",
+  "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json",
   "@type" : "sc:Manifest",
   "label" : "Architectural tour in Ivry-sur-Seine",
-  "metadata" : [ ],
+  "metadata" : [ {
+    "label" : "Context Title",
+    "value" : "IIIF Assignement for the master's degree 'Technologies numériques appliquées à l'histoire' (Ecole nationale des chartes)"
+  }, {
+    "label" : "Collection",
+    "value" : "Postcards and Images from architects of Ivry-sur-Seine"
+  } ],
   "description" : [ {
     "@value" : "This IIIF manifest contains four images linked to the city of Ivry-sur-Seine",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Photographs from Archives municipales d'Ivry-sur-Seine, Conseil d’Architecture, d’Urbanisme et de l’Environnement d'Ile de France et Société OTE Ingéniérie.",
   "sequences" : [ {
     "@id" : "http://c12ad706-3cf3-4d6e-9793-0a1473fbbeaf",
     "@type" : "sc:Sequence",
