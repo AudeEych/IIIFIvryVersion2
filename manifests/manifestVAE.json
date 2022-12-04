@@ -70,7 +70,7 @@
         },
         "on" : "http://fd42bec2-88bb-44a8-99a2-8d21cbbe2a6d"
       } ],
-      "related" : "",
+      "related" : ""
     }, {
       "@id" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b",
       "@type" : "sc:Canvas",
@@ -96,7 +96,7 @@
         },
         "on" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b"
       } ],
-      "related" : "",
+      "related" : ""
     }, {
       "@id" : "http://900c1c21-0968-48ee-a9f6-8f88cf964c72",
       "@type" : "sc:Canvas",
@@ -122,7 +122,7 @@
         },
         "on" : "http://900c1c21-0968-48ee-a9f6-8f88cf964c72"
       } ],
-      "related" : "",
+      "related" : ""
     }, {
       "@id" : "http://caf867cf-8ebd-4017-a15e-6f82d1df99c6",
       "@type" : "sc:Canvas",
@@ -148,7 +148,7 @@
         },
         "on" : "http://caf867cf-8ebd-4017-a15e-6f82d1df99c6"
       } ],
-      "related" : "",
+      "related" : ""
     } ]
   } ],
   "structures" : [ ]
