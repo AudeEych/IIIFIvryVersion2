@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE",
+  "@type" : "sc:Manifest",
+  "label" : "Architectural tour in Ivry-sur-Seine",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "This IIIF manifest contains four images linked to the city of Ivry-sur-Seine",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://c12ad706-3cf3-4d6e-9793-0a1473fbbeaf",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://fd42bec2-88bb-44a8-99a2-8d21cbbe2a6d",
+      "@type" : "sc:Canvas",
+      "label" : "Ivry-sur-Seine, overview of the city.",
+      "height" : "1286",
+      "width" : "2000",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://97337ecc-5b75-437e-9e27-075ff46c3807",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://audeeych.github.io/IIIFIvryVersion2/images/Panorama1917/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://audeeych.github.io/IIIFIvryVersion2/images/Panorama1917",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1286,
+          "width" : 2000
+        },
+        "on" : "http://fd42bec2-88bb-44a8-99a2-8d21cbbe2a6d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b",
+      "@type" : "sc:Canvas",
+      "label" : "Les Etoiles de Renaudie",
+      "height" : "1062",
+      "width" : "796",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://69f79e82-4273-4f2d-bb93-b54d65085864",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://audeeych.github.io/IIIFIvryVersion2/images/LesEtoiles1970/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://audeeych.github.io/IIIFIvryVersion2/images/LesEtoiles1970",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1062,
+          "width" : 796
+        },
+        "on" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://900c1c21-0968-48ee-a9f6-8f88cf964c72",
+      "@type" : "sc:Canvas",
+      "label" : "Ivry - Manufacture Bac",
+      "height" : "943",
+      "width" : "1535",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://672b8f01-79fb-443f-8ab6-9fb7039a9bd5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://audeeych.github.io/IIIFIvryVersion2/images/ManufactureBac1906/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://audeeych.github.io/IIIFIvryVersion2/images/ManufactureBac1906",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 943,
+          "width" : 1535
+        },
+        "on" : "http://900c1c21-0968-48ee-a9f6-8f88cf964c72"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://caf867cf-8ebd-4017-a15e-6f82d1df99c6",
+      "@type" : "sc:Canvas",
+      "label" : "Théâtre des quartiers d'Ivry, centre dramatique national",
+      "height" : "1669",
+      "width" : "2500",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cb49b812-67df-4bcf-93d9-c4a9a6ba1491",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://audeeych.github.io/IIIFIvryVersion2/images/CDNmanufacture-des-oeillets-ivry-sur-seine/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://audeeych.github.io/IIIFIvryVersion2/images/CDNmanufacture-des-oeillets-ivry-sur-seine",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1669,
+          "width" : 2500
+        },
+        "on" : "http://caf867cf-8ebd-4017-a15e-6f82d1df99c6"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
