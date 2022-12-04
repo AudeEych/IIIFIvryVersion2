@@ -29,6 +29,28 @@
       "label" : "Ivry-sur-Seine, overview of the city.",
       "height" : "1286",
       "width" : "2000",
+      "metadata" : [ {
+        "label" : "Repository",
+        "value" : "Archives municipales d'Ivry-sur-Seine."
+      }, {
+        "label" : "Source Image",
+        "value" : "https://cabinetdecuriosites.ivry94.fr/les-archives-sexposent/les-transformations-urbaines-divry-dans-le-viseur-de-latelier-relais"
+      }, {
+        "label" : "Title",
+        "value" : "Ivry, panorama de la ville depuis le plateau, 1917"
+      }, {
+        "label" : "Date",
+        "value" : "1917"
+      }, {
+        "label" : "Author",
+        "value" : "Unknown"
+      }, {
+        "label" : "Type",
+        "value" : "Postcard"
+      }, {
+        "label" : "Relation",
+        "value" : "Contained in cabinetdecuriosites.ivry94.fr/les-archives-sexposent/les-transformations-urbaines-divry-dans-le-viseur-de-latelier-relais"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://97337ecc-5b75-437e-9e27-075ff46c3807",
@@ -49,6 +71,11 @@
         "on" : "http://fd42bec2-88bb-44a8-99a2-8d21cbbe2a6d"
       } ],
       "related" : ""
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "",
+        "label" : "Annotations for canvas Overview 1917"
+      } ]
     }, {
       "@id" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b",
       "@type" : "sc:Canvas",
