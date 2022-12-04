@@ -70,7 +70,11 @@
         },
         "on" : "http://fd42bec2-88bb-44a8-99a2-8d21cbbe2a6d"
       } ],
-      "related" : ""
+     "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://audeeych.github.io/IIIFIvryVersion2/annotations/AnnotationsPanorama1917.json",
+        "label" : "Annotations for canvas Panorama1917"
+      } ],
     }, {
       "@id" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b",
       "@type" : "sc:Canvas",
