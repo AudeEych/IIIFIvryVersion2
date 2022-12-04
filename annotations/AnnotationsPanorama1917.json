@@ -1,0 +1,90 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The numerous market garden crops produced in Ivry but also in many towns in the Paris suburbs were used to feed the neighboring capital, Paris.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The numerous market garden crops produced in Ivry but also in many towns in the Paris suburbs were used to feed the neighboring capital, Paris.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-04T15:28:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670167724497",
+    "dcterms:modified" : "2022-12-04T15:28:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=108,960,1765,185"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M107.51667,959.96473h882.49514v0h882.49514v92.56319v92.56319h-882.49514h-882.49514v-92.56319z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_032d38e0-ae1d-47c0-acdd-8d520338196a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fd42bec2-88bb-44a8-99a2-8d21cbbe2a6d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p dir=\"ltr\"><span id=\"docs-internal-guid-dd4e151a-7fff-ad15-12ea-dfd5484da5f3\"><span style=\"font-size: 11pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Many factory chimneys stand near the Seine. The Lemoine forges, the SKF factory which produced ball bearings, the Muller tile factories which manufactured interlocking tiles and decorative ceramics, the Waters factory which treated water from the Seine, the Ferrand-Renaud factory, the General Company of Incandescent Lamps...",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p dir=\"ltr\"><span id=\"docs-internal-guid-dd4e151a-7fff-ad15-12ea-dfd5484da5f3\"><span style=\"font-size: 11pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Many factory chimneys stand near the Seine. The <em>Lemoine forges</em>, <em>the SKF factory</em> which produced ball bearings, the Muller tile factories which manufactured interlocking tiles and decorative ceramics, <em>the Waters factory</em> which treated water from the Seine, <em>the Ferrand-Renaud factory</em>, <em>the General Company of Incandescent Lamps...</em></span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-04T15:26:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670167573806",
+    "dcterms:modified" : "2022-12-04T15:26:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=75,497,1870,119"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M74.57985,497.46219h934.75203v0h934.75203v59.30511v59.30511h-934.75203h-934.75203v-59.30511z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_90f44059-d471-4b26-9e0a-08f2df25fafa\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fd42bec2-88bb-44a8-99a2-8d21cbbe2a6d"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=56,489,50,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M105.90797,488.75994h-25.10677v0h-25.10677v1v1h25.10677h25.10677v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_60f6412e-7c72-4e44-8128-55c613b0d3af\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fd42bec2-88bb-44a8-99a2-8d21cbbe2a6d"
+    } ]
+  } ],
+  "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/annotations/AnnotationsPanorama1917.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
