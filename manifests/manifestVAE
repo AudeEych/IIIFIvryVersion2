@@ -101,7 +101,7 @@
         },
         "on" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b"
       } ],
-      "related" : ""
+      "related" : "",
     }, {
       "@id" : "http://900c1c21-0968-48ee-a9f6-8f88cf964c72",
       "@type" : "sc:Canvas",
