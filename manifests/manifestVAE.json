@@ -81,6 +81,28 @@
       "label" : "Les Etoiles de Renaudie",
       "height" : 1062,
       "width" : 796,
+      "metadata" : [ {
+        "label" : "Repository",
+        "value" : "Conseil d'Architecture d'Urbanisme et de l'Environnement du 94"
+      }, {
+        "label" : "Source Image", 
+        "value" : "https://www.caue-idf.fr/content/centre-ville-ivry-etoiles-jep2022"
+      }, {
+        "label" : "Title",
+        "value" : " Centre ville d'Ivry-sur-Seine, "les étoiles"
+      }, {
+        "label" : "Date",
+        "value" : "Unknown"
+      }, {
+        "label" : "Author",
+        "value" : "Conseil d'Architecture d'Urbanisme et de l'Environnement du 94"
+      }, {
+        "label" : "Type",
+        "value" : "Photograph"
+      }, {
+        "label" : "Relation",
+        "value" : "Contained in https://www.caue-idf.fr/content/centre-ville-ivry-etoiles-jep2022"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://69f79e82-4273-4f2d-bb93-b54d65085864",
