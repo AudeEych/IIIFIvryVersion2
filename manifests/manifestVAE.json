@@ -129,6 +129,28 @@
       "label" : "Ivry - Manufacture Bac",
       "height" : 943,
       "width" : 1535,
+      "metadata" : [ {
+        "label" : "Repository",
+        "value" : "Archives municipales d'Ivry-sur-Seine."
+      }, {
+        "label" : "Source Image",
+        "value" : "https://cabinetdecuriosites.ivry94.fr/les-archives-sexposent/les-transformations-urbaines-divry-dans-le-viseur-de-latelier-relais"
+      }, {
+        "label" : "Title",
+        "value" : "Ivry - Manufacture Bac"
+      }, {
+        "label" : "Date",
+        "value" : "1906"
+      }, {
+        "label" : "Author",
+        "value" : "Unknown"
+      }, {
+        "label" : "Type",
+        "value" : "Postcard"
+      }, {
+        "label" : "Relation",
+        "value" : "Contained in cabinetdecuriosites.ivry94.fr/les-archives-sexposent/les-transformations-urbaines-divry-dans-le-viseur-de-latelier-relais"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://672b8f01-79fb-443f-8ab6-9fb7039a9bd5",
@@ -155,6 +177,28 @@
       "label" : "Théâtre des quartiers d'Ivry, centre dramatique national",
       "height" : 1669,
       "width" : 2500,
+       "metadata" : [ {
+        "label" : "Repository",
+        "value" : "Bureau d’étude pluridisciplinaire OTE"
+      }, {
+        "label" : "Source Image",
+        "value" : "https://www.ote-ingenierie.com/wp-content/uploads/2019/05/manufacture-des-oeillets-ivry-sur-seine.jpg"
+      }, {
+        "label" : "Title",
+        "value" : "Model of Théâtre des quartiers d'Ivry, centre dramatique national"
+      }, {
+        "label" : "Date",
+        "value" : "1906"
+      }, {
+        "label" : "Author",
+        "value" : "Bureau d’étude pluridisciplinaire OTE"
+      }, {
+        "label" : "Type",
+        "value" : "Synthesis image"
+      }, {
+        "label" : "Relation",
+        "value" : "Contained in https://www.ote-ingenierie.com/wp-content/uploads/2019/05/manufacture-des-oeillets-ivry-sur-seine.jpg"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://cb49b812-67df-4bcf-93d9-c4a9a6ba1491",
