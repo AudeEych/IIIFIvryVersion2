@@ -1,0 +1,123 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">The city of Ivry-sur-Seine bought the old Manufacture in 2009. Eighteen months of work, financed by the State, the region, the city and the department, to fit out two performance halls, of 400 and <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">100 places, the Cr&eacute;dac (Contemporary Art Center of Ivry) and the EPSAA (Higher Professional School of Graphic Arts and Architects).",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">The city of Ivry-sur-Seine bought the old Manufacture in 2009. Eighteen months of work, financed by the State, the region, the city and the department, to fit out two performance halls, of 400 and</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">100 places, the Cr&eacute;dac (Contemporary Art Center of Ivry) and the EPSAA (Higher Professional School of Graphic Arts and Architects).</span></span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-09T19:09:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670612962601",
+    "dcterms:modified" : "2022-12-09T19:09:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1348,1105,2,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1348.43764,1105.0921h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d0ad5af9-6814-4a8b-8123-166c31a0eefb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://caf867cf-8ebd-4017-a15e-6f82d1df99c6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Th&eacute;&acirc;tre des quartiers d'Ivry.\n<span class=\"pl-s\">Centre Dramatique National du Val-de-Marne.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Th&eacute;&acirc;tre des quartiers d'Ivry.</p>\n<p><span class=\"pl-s\">Centre Dramatique National du Val-de-Marne.</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-09T19:00:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670612430078",
+    "dcterms:modified" : "2022-12-09T19:02:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1930,1096,333,85"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1930.17008,1096.12122h166.61368v0h166.61368v42.49956v42.49956h-166.61368h-166.61368v-42.49956z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_13ac85ef-8855-42dc-a7ca-c590b50d4274\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://caf867cf-8ebd-4017-a15e-6f82d1df99c6"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2084,1081,18,21"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2084.1079,1101.01927h9.0395v0h9.0395v-10.2553v-10.2553h-9.0395h-9.0395v10.2553z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_4f42347e-83d2-4f97-86b0-1214739419d6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://caf867cf-8ebd-4017-a15e-6f82d1df99c6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Interior hall restored, preserved in its state, with its peripheral mezzanine and its central canopy. <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">A public reception area with bar and bookstore, where meetings, readings, literary or philosophical caf&eacute;s take place.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Interior hall restored, preserved in its state, with its peripheral mezzanine and its central canopy.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">A public reception area with bar and bookstore, where meetings, readings, literary or philosophical caf&eacute;s take place.</span></span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-09T19:04:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670612642809",
+    "dcterms:modified" : "2022-12-09T19:04:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=496,1024,1993,480"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M496.07494,1023.65617h996.53347v0h996.53347v239.87872v239.87872h-996.53347h-996.53347v-239.87872z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8d90dff9-2785-4973-83a8-00a543a75837\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://caf867cf-8ebd-4017-a15e-6f82d1df99c6"
+    } ]
+  } ],
+  "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/annotations/annotationsImage4.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
