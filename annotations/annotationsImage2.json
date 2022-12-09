@@ -1,0 +1,189 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">The name \"stars\" is given in reference to the triangular points in raw concrete which radiate from an orthogonal frame",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">The name \"stars\" is given in reference to the triangular points in raw concrete which radiate from an orthogonal frame</span></span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-09T18:22:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670610135743",
+    "dcterms:modified" : "2022-12-09T18:22:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=312,739,335,212"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M311.52832,738.72311h167.26502v0h167.26502v106.18807v106.18807h-167.26502h-167.26502v-106.18807z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2950d56b-8975-4395-b636-6c1319f09e2a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Footbridge that connects the two residential and commercial blocks.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Footbridge that connects the two residential and commercial blocks.</span></span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-09T18:13:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670609634435",
+    "dcterms:modified" : "2022-12-09T18:13:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=364,582,197,94"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M363.86821,582.40694h98.60578v0h98.60578v47.04046v47.04046h-98.60578h-98.60578v-47.04046z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9d26b0b0-bcdc-42d8-a989-f2cdf68e7f44\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span id=\"docs-internal-guid-6d590a9a-7fff-8637-c2a2-7e73fd8f521a\" style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Jeanne Hachette ensemble built in 1976 by the architect Ren&eacute;e Gailhoustet: 106 housing units, 353 parking lots, a shopping mall and artists' studios.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span id=\"docs-internal-guid-6d590a9a-7fff-8637-c2a2-7e73fd8f521a\" style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Jeanne Hachette ensemble built in 1976 by the architect Ren&eacute;e Gailhoustet: 106 housing units, 353 parking lots, a shopping mall and artists' studios.</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-09T15:17:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670599021566",
+    "dcterms:modified" : "2022-12-09T18:17:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=0,344,400,229"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M0,344.22428h200.09942v0h200.09942v114.56647v114.56647h-200.09942h-200.09942v-114.56647z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_0b58878d-ca5b-4010-a02c-3ae6746934c4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=376,262,2,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M375.53757,261.96532h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_f4f78498-99dd-4002-83c4-2f76b6b744c0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Ensemble Voltaire made in 1987 by the architect Nina Schuch <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">134 housing units, 134 car parks and artists' studios<span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Ensemble Voltaire made in 1987 by the architect Nina Schuch</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">134 housing units, 134 car parks and artists' studios</span></span></span><span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">.</span></span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-09T18:11:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670609515467",
+    "dcterms:modified" : "2022-12-09T18:21:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=249,680,548,385"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M249.32957,680.0233h274.01385v0h274.01385v192.34562v192.34562h-274.01385h-274.01385v-192.34562z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_c5aff2a9-97e1-4413-a37a-9fc2381884c5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.14359\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Green roof terraces",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Green roof terraces</span></span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-09T18:14:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670609678718",
+    "dcterms:modified" : "2022-12-09T18:14:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=468,420,126,56"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M468.22659,420.34451h63.00116v0h63.00116v28.0104v28.0104h-63.00116h-63.00116v-28.0104z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0d36a3bb-f47a-4d59-8960-210ca7836508\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b"
+    } ]
+  } ],
+  "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/annotations/annotationsImage2.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
