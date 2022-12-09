@@ -72,7 +72,7 @@
       } ],
      "otherContent" : [ {
         "@type" : "sc:AnnotationList",
-        "@id" : "https://audeeych.github.io/IIIFIvryVersion2/annotations/AnnotationsPanorama1917.json",
+        "@id" : "https://audeeych.github.io/IIIFIvryVersion2/annotations/annotationsImage1.json",
         "label" : "Annotations for canvas Panorama1917"
       } ]
     }, {
@@ -122,6 +122,11 @@
         },
         "on" : "http://7de03082-4d78-4172-bde0-2f45375a0f8b"
       } ],
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://audeeych.github.io/IIIFIvryVersion2/annotations/annotationsImage2.json",
+        "label" : "Annotations for canvas Les étoiles de Renaudie"
+      } ]
       "related" : ""
     }, {
       "@id" : "http://900c1c21-0968-48ee-a9f6-8f88cf964c72",
@@ -170,6 +175,11 @@
         },
         "on" : "http://900c1c21-0968-48ee-a9f6-8f88cf964c72"
       } ],
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://audeeych.github.io/IIIFIvryVersion2/annotations/annotationsImage3.json",
+        "label" : "ManufactureBac1906"
+      } ]
       "related" : ""
     }, {
       "@id" : "http://caf867cf-8ebd-4017-a15e-6f82d1df99c6",
@@ -218,6 +228,11 @@
         },
         "on" : "http://caf867cf-8ebd-4017-a15e-6f82d1df99c6"
       } ],
+       "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://audeeych.github.io/IIIFIvryVersion2/annotations/annotationsImage4.json",
+        "label" : "CDNmanufacture-des-oeillets-ivry-sur-seine"
+      } ]
       "related" : ""
     } ]
   } ],
