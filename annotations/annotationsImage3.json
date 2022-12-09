@@ -1,0 +1,164 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Chimney to melt the metal to make the eyelets.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Chimney to melt the metal to make the eyelets.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-09T18:33:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670610786500",
+    "dcterms:modified" : "2022-12-09T18:33:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=255,240,2,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M254.50173,240.0185h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d40a3b91-a7d0-4d07-b8ff-474bd2094912\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://900c1c21-0968-48ee-a9f6-8f88cf964c72"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=187,89,68,351"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M254.50173,440.6104h-33.88555v0h-33.88555v-175.60809v-175.60809h33.88555h33.88555v175.60809z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e64586d4-358f-47f8-b28c-ad132400640e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://900c1c21-0968-48ee-a9f6-8f88cf964c72"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Large brick and millstone machinery hall.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Large brick and millstone machinery hall.</span></span></span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-09T18:59:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670612387745",
+    "dcterms:modified" : "2022-12-09T18:59:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=47,443,787,358"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M47.38756,443.22355h393.27805v0h393.27805v179.08942v179.08942h-393.27805h-393.27805v-179.08942z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_61a072c0-e48c-4ff7-9ac8-29a42bb76932\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://900c1c21-0968-48ee-a9f6-8f88cf964c72"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sculpted capital with a clock in the center that indicates the entrance.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Sculpted capital with a clock in the center that indicates the entrance.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-09T18:30:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670610607387",
+    "dcterms:modified" : "2022-12-09T18:30:07",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=222,475,213,163"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M221.79653,475.49595h106.74682v0h106.74682v81.67283v81.67283h-106.74682h-106.74682v-81.67283z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_29c072e1-0628-47f4-ab60-e0f5c1c1cb0f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://900c1c21-0968-48ee-a9f6-8f88cf964c72"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">&ldquo;BAC&rdquo; factory, named after its first owner, who in 1890 launched the construction of a factory to produce penholders and metal eyelets <span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">(for shoes, corsets or military equipment)<span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">. <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">In 1904, it took the definitive name of Manufacture fran&ccedil;aise des &oelig;illets.O<span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">wes its rescue to an architectural singularity which earned it a listing in the supplementary inventory of Historic Monuments in 1996.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">&ldquo;BAC&rdquo; factory, named after its first owner, who in 1890 launched the construction of a factory to produce penholders and metal eyelets </span></span></span><span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">(for shoes, corsets or military equipment)</span></span></span><span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">In 1904, it took the definitive name of <em>Manufacture fran&ccedil;aise des &oelig;illets.</em>O</span></span></span><span class=\"HwtZe\" lang=\"en\"><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">wes its rescue to an architectural singularity which earned it a listing in the supplementary inventory of Historic Monuments in 1996.</span></span></span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Factory Bac",
+      "@type" : "oa:Tag",
+      "chars" : "Factory Bac"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Manufacture des oeillets",
+      "@type" : "oa:Tag",
+      "chars" : "Manufacture des oeillets"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/118660249",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-12-09T18:25:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1670610314981",
+    "dcterms:modified" : "2022-12-09T18:44:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/manifests/manifestVAE.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=611,36,487,51"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M611.05877,36.15607h243.56358v0h243.56358v25.5289v25.5289h-243.56358h-243.56358v-25.5289z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_0609e708-0620-46a7-914e-5a8848745e10\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"14.43968\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://900c1c21-0968-48ee-a9f6-8f88cf964c72"
+    } ]
+  } ],
+  "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/annotations/annotationsImage3.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
