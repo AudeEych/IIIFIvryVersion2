@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://AudeEych.github.io/IIIFIvryVersion2/annotations/AnnotationsPanorama1917.json" ],
+  "otherContent" : [ "https://AudeEych.github.io/IIIFIvryVersion2/annotations/AnnotationsPanorama1917.json", "https://AudeEych.github.io/IIIFIvryVersion2/annotations/annotationsImage1.json" ],
   "@id" : "https://AudeEych.github.io/IIIFIvryVersion2/annotations/collection.json",
   "label" : "All annotations loaded in AudeEych/IIIFIvryVersion2 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
