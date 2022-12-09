@@ -137,7 +137,7 @@
         "value" : "https://cabinetdecuriosites.ivry94.fr/les-archives-sexposent/les-transformations-urbaines-divry-dans-le-viseur-de-latelier-relais"
       }, {
         "label" : "Title",
-        "value" : "Ivry - Manufacture Bac"
+        "value" : "L’usine Guillaume Bac, avant la première Guerre Mondiale"
       }, {
         "label" : "Date",
         "value" : "1906"
@@ -174,7 +174,7 @@
     }, {
       "@id" : "http://caf867cf-8ebd-4017-a15e-6f82d1df99c6",
       "@type" : "sc:Canvas",
-      "label" : "Théâtre des quartiers d'Ivry, centre dramatique national",
+      "label" : "Théâtre des quartiers d'Ivry, Centre Dramatique National du Val-de-Marne",
       "height" : 1669,
       "width" : 2500,
        "metadata" : [ {
