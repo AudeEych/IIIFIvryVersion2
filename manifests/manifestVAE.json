@@ -63,7 +63,7 @@
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
             "@id" : "https://audeeych.github.io/IIIFIvryVersion2/images/Panorama1917",
-            "profile" : "http://iiif.io/api/image/2/level0.json"
+            "profile" :[ "http://iiif.io/api/image/2/level0.json"[]]
           },
           "height" : 1286,
           "width" : 2000
@@ -230,11 +230,13 @@
         "@type" : "sc:AnnotationList",
         "@id" : "https://audeeych.github.io/IIIFIvryVersion2/annotations/annotationsImage4.json",
         "label" : "CDNmanufacture-des-oeillets-ivry-sur-seine"
-      } ],
+      } ]
+    } ]
+  } ],
   "structures" : [ ],
-  "service" : [{
+  "service" : {
     "profile" : "http://iiif.io/api/search/0/search",
     "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/92535159/manifests/search",
     "@context" : "http://iiif.io/api/search/0/context.json"
-  }]
+  } 
 }
