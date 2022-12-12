@@ -232,9 +232,9 @@
         "label" : "CDNmanufacture-des-oeillets-ivry-sur-seine"
       } ],
   "structures" : [ ],
-  "service" : {
+  "service" : [{
     "profile" : "http://iiif.io/api/search/0/search",
     "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/92535159/manifests/search",
     "@context" : "http://iiif.io/api/search/0/context.json"
-  }
+  }]
 }
